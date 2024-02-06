@@ -1,5 +1,6 @@
-tensorflow==2.12.0
 pandas 
+opencv-python
+opendatasets 
 dvc
 mlflow==2.2.2
 notebook
@@ -13,7 +14,5 @@ ensure==1.0.2
 joblib
 types-PyYAML
 scipy
-Flask
-Flask-Cors
 gdown
 -e .
